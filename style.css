@@ -1,0 +1,428 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header {
+    width: 1600px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+
+}
+
+
+
+.yozuv ul {
+    justify-content: space-between;
+    width: 570px;
+    display: flex;
+    list-style-type: none;
+    position: relative;
+    left: 300px;
+
+}
+
+.btn {
+    margin-left: 100px;
+
+}
+
+.btn button {
+    padding: 15px;
+    width: 150px;
+    background: #111E52;
+    border-radius: 15px;
+    color: white;
+    position: relative;
+    left: 300px;
+}
+
+
+.qal {
+    color: rgb(255, 208, 0);
+}
+
+.parafraf {
+    color: black;
+}
+
+.main_container_wrapped span {
+    margin-left: 50px;
+}
+
+.main_container_wrapped h1 {
+    font-size: 72px;
+}
+
+.main_container_wrapped p {
+    font-size: 64px;
+    color: #FFC947;
+}
+
+.oliy_talim p {
+    margin-top: 60px;
+    color: black;
+    font-size: 20px;
+}
+
+.main_container {
+    margin: auto;
+    width: 1600px;
+    height: 500px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+
+.btn_ariza button {
+    margin-top: 100px;
+    width: 200px;
+    height: 30px;
+    background-color: #FFC947;
+    border: 1px solid #FFC947;
+    border-radius: 8px;
+}
+
+
+.btn_ariza button:hover {
+    background-color: #111E52;
+    color: white;
+    cursor: pointer;
+}
+
+.abror {
+    background-image: url(./img/Ellipse\ 475.png);
+    background-repeat: no-repeat;
+    background-size: 900px;
+    position: relative;
+    bottom: 500px;
+    left: 700px;
+
+}
+
+.abror img {
+    width: 700px;
+    height: 600px;
+}
+
+.main_container {
+    margin: auto;
+    background-image: url(./Rectangle\ 3390.png);
+    background-size: 1100px;
+}
+
+.imtiyoz {
+
+    text-align: center;
+    margin-top: 180px;
+    font-size: 32px;
+
+}
+
+.ind {
+    margin-top: 180px;
+    justify-content: space-between;
+    display: flex;
+    width: 1200px;
+    height: 300px;
+    margin: auto;
+}
+
+.div1 {
+    margin: auto;
+    text-align: center;
+    background: #F9F9FF;
+    height: 300px;
+    width: 390px;
+}
+
+.div2 {
+    text-align: center;
+    background: #F9F9FF;
+    height: 300px;
+    width: 390px;
+}
+
+.div3 {
+    text-align: center;
+    background: #F9F9FF;
+    height: 300px;
+    width: 390px;
+}
+
+.div1 img {
+    margin-top: 50px;
+}
+
+.div2 img {
+    margin-top: 50px;
+}
+
+.div3 img {
+    margin-top: 50px;
+}
+
+.yozuv {
+    margin: auto;
+    display: flex;
+    margin-right: 50px;
+}
+
+.yoz1 {
+    margin-top: 200px;
+    font-size: 32px;
+    margin-left: 100px;
+}
+
+.yoz2 {
+    margin-top: 250px;
+    margin-left: 100px;
+}
+
+video {
+    margin-left: 8 0px;
+    width: 1600px;
+    height: 800px;
+}
+
+.yozuv_va_video {
+    width: 1500px;
+    margin: auto;
+}
+
+.keyingi {
+    width: 2000px;
+    height: 800px;
+    background: #F9F9FF;
+    margin: auto;
+
+}
+
+.naruto {
+    padding-left: 100px;
+    font-size: 56px;
+    padding-top: 100px;
+}
+
+.div123 img {
+
+    width: 1400px;
+    /* margin-left: 50px; */
+    margin-top: 150px;
+}
+
+.boruto h2 {
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.boruto {
+    margin-top: 50px;
+    display: flex;
+
+    justify-content: space-around;
+}
+
+.boruto h3 {
+    margin-left: 100px;
+}
+
+.otm {
+    margin: auto;
+    width: 1600px;
+    height: 200px;
+}
+
+.asosiy {
+
+    font-size: 56px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.satr {
+
+    margin: auto;
+    width: 2000px;
+    height: 200px;
+    border: 1px solid #EEEFF1
+}
+
+.tozalash h1 {
+
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+.tozalash p {
+    font-size: 26px;
+    color: red;
+    margin-left: 1700px;
+    bottom: 100px;
+}
+
+
+.yozish1 select {
+    margin-left: 50px;
+    width: 750px;
+    height: 50px;
+    display: flex;
+}
+
+.tozalash2 select {
+    position: relative;
+    left: 850px;
+    bottom: 50px;
+}
+
+.tozalash button {
+    margin-bottom: 30px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    background-color: blue;
+    bottom: 90px;
+    position: relative;
+    left: 1700px;
+}
+
+.tablitsa table {
+    width: 2000px;
+    height: 400px;
+    font-size: 26px;
+}
+
+.btn2 button {
+    width: 40px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+.button2 {
+    display: flex;
+    margin-left: 1850px;
+
+}
+
+.telegram {
+    background: rgb(28, 0, 168);
+    background: linear-gradient(90deg, rgba(28, 0, 168, 1) 30%, rgba(51, 5, 164, 1) 49%, rgba(179, 24, 175, 1) 100%);
+    align-items: center;
+    display: flex;
+    border: 1px solid;
+    width: 2000px;
+    height: 200px;
+}
+
+.tg button {
+    margin-left: 800px;
+    border-radius: 5px;
+    color: white;
+    background: rgb(28, 0, 168);
+    background: linear-gradient(90deg, rgba(28, 0, 168, 1) 30%, rgba(51, 5, 164, 1) 49%, rgba(179, 24, 175, 1) 100%);
+    font-size: 20px;
+    display: flex;
+    width: 300px;
+    height: 80px;
+    align-items: center;
+}
+
+.pechat {
+    color: white;
+    font-size: 46px;
+    padding: 40px;
+}
+
+.tg button:active {
+    border-color: lime;
+}
+
+.talim {
+
+    /* border: 1px solid; */
+    width: 1900px;
+    height: 800px;
+}
+
+.dis1 {
+
+    padding: 56px;
+    font-size: 50px;
+}
+
+.dis234 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.otkaz button {
+    position: relative;
+    bottom: 300px;
+    border-radius: 15px;
+    width: 30px;
+    height: 35px;
+    left: 145px;
+}
+
+.otkaz1 button {
+    position: relative;
+    bottom: 200px;
+    border-radius: 15px;
+    width: 30px;
+    height: 35px;
+    left: 1720px;
+    bottom: 340px;
+}
+
+.dixlar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.dix {
+    text-align: center;
+}
+
+.dix1 {
+    text-align: center;
+
+}
+
+
+.dix1 img {
+    margin-top: 80px;
+}
+
+.dixlar button {
+    color: white;
+    padding: 10px;
+    display: flex;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.fotter {
+    margin-top: 150px;
+    color: white;
+
+
+    width: 2000px;
+    height: 500px;
+    border: 1px solid black;
+    background: #313131;
+
+}
+.fotter2{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
